@@ -4,7 +4,7 @@ This project implements the ASIMO robot concept in two specialized variants: **A
 The main goal of the project is to demonstrate how OOP concepts can be used to design a modular, maintainable, and extensible system.
 ## Class Diagram
 Here is a class diagram illustrating the relationship between the classes `Robot`, `AsimoRumah`, and `AsimoPabrik`, as well as their attributes and methods, which form the architectural foundation of this project:
-![Class Diagram ASIMO Robot](docs/diagram_kelas_asimo.png)
+![Class Diagram ASIMO Robot](ASIMO/docs/diagram_kelas_asimo.png)
 ## OOP Concepts Applied
 This project clearly applies several key concepts of Object Oriented Programming:
 * **Inheritance:**
